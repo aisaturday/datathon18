@@ -1,7 +1,7 @@
-About
+# About
 
 * For date column, there is CSV of UTC date-time and local date-time
-  * For date-time, [the separator between date and time](http://www.loc.gov/standards/datetime/pre-submission.html#datetime) is a <bold>T</bold>
+  * For date-time, [the separator between date and time](http://www.loc.gov/standards/datetime/pre-submission.html#datetime) is a **T**
 
 # Air Quality Datathon 2018
 
