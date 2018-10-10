@@ -1,4 +1,4 @@
-id,utc-date,utc-time,parameter,location,value,unit,city,averagingperiod,apunit,latitude,longitude 1,country,mobile
+id,utc-date,utc-time,parameter,location,value,unit,city,averagingperiod,apunit,latitude,longitude,country,mobile
 1,20061113,064200,pm25,JTA - Jamestown,115.56,µg/m³,Accra,48.0,hours,5.540114,-0.2103972,GH,false
 2,20061113,064200,pm10,JTA - Jamestown,161.09,µg/m³,Accra,48.0,hours,5.540114,-0.2103972,GH,false
 3,20061113,071300,pm25,JTC - Jamestown,104.8,µg/m³,Accra,48.0,hours,5.5349193,-0.2124056,GH,false
